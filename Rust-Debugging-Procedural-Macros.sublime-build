@@ -1,0 +1,3 @@
+{
+    "shell_cmd": "rustc --test $file_name -Z unpretty=hir"
+}
