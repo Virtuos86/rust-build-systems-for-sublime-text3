@@ -1,0 +1,3 @@
+{
+    "shell_cmd": "rustc -Z unstable-options --pretty expanded $file_name"
+}
