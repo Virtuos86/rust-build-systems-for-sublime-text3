@@ -1,0 +1,3 @@
+{
+    "shell_cmd": "RUST_BACKTRACE=1 rustc --verbose $file_name && $file_base_name"
+}
